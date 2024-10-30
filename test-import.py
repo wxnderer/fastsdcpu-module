@@ -1,0 +1,1 @@
+from fastsdcpu import app
